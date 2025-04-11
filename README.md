@@ -1,0 +1,1 @@
+This is the first note for verifying auto sync machenism.
